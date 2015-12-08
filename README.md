@@ -12,7 +12,7 @@ The Query Software.
 
 The spider software 'crawls the web looking for new pages to collect and add to the search engine indices'.
 This is a metaphor. In reality, the spider doesn't do any 'crawling' and doesn't 'visit' any web pages. It requests pages from a website in the same way as Microsoft Explorer, or Firefox or whichever browser you use requests pages to display on your screen.
-The difference is that the spider doesn't collect images or formatting - it is only interested in text and links AND the URL, (for example, http://www.Unique-Resource-Locator.html) from which they come. it doesn't display anything and it gets as much information as it can is the shortest time possible.
+The difference is that the spider doesn't collect images or formatting - it is only interested in text and links AND the URL, (for example, http://www.Unique-Resource-Locator.html) from which they come. It doesn't display anything and it gets as much information as it can is the shortest time possible.
 Since the spider doesn't collect images, it doesn't take notice of Flash intros or colorful pictures. So, make sure your images, logo or videos are identified by a text 'alt tag,' or the spider will ignore them and they will not have value in the search engines.
 
 
