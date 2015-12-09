@@ -26,3 +26,7 @@ The query software is what you see when you go to a search engine - it is the fr
 So, when you type in your search words and hit search, then the search engine will try to match your words with the best, most relevant web pages it can find by 'searching the web'.
 But this too is a metaphor and perhaps the most important one.
 The query software doesn't actually search the web - instead, it checks through all the records that have been created by its own index software. And those records are made possible by the text, links and URL material the spider software collects.
+
+
+
+**Algorithm**
