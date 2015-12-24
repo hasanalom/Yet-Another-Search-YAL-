@@ -31,4 +31,3 @@ The query software doesn't actually search the web - instead, it checks through 
 
 **Algorithm**
 The most popular algorithm used in Search Engines are:
-Page Rank
