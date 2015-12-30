@@ -1,14 +1,14 @@
 # Yet-Another-Search-YAS-
-Welcome to the next gen of search
+Welcome to the next gen of search.
 Hello Everyone, Well, from the first day of using Google I just fall in love with it. From that day I decided to make a search engine (I know it's not very easy). Genuinely Google is doing smart but I think there has to be something different than Google that yet to be made. I welcome each and every contributors to contribute towards our project and take it to the next level.
 
 **Basics of Search Engine**
 *How Search Engine Works*
 Search engines use automated software (known as robots or spiders) to follow links on Websites, harvesting information as they go. When someone submits a query to a search engine, the engine returns a list of sites, ranking them on their relevance to the keywords used in the search.
 There are three pieces of software that together make up a search engine:
-The Spider Software
-The Index Software and
-The Query Software.
+>The Spider Software
+>The Index Software and
+>The Query Software.
 
 The spider software 'crawls the web looking for new pages to collect and add to the search engine indices'.
 This is a metaphor. In reality, the spider doesn't do any 'crawling' and doesn't 'visit' any web pages. It requests pages from a website in the same way as Microsoft Explorer, or Firefox or whichever browser you use requests pages to display on your screen.
