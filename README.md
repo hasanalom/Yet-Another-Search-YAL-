@@ -33,3 +33,4 @@ The query software doesn't actually search the web - instead, it checks through 
 The most popular algorithm used in Search Engines are:
 Page Rank
 Spam Detection
+CopyRight Detector
