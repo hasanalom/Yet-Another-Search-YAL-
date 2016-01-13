@@ -35,7 +35,4 @@ Page Rank
 Spam Detection
 CopyRight Detector
 
-Page Rank:
-Data flow Diagram:
-How it Works
-Process
+Python Program
