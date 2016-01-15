@@ -34,5 +34,3 @@ The most popular algorithm used in Search Engines are:
 Page Rank
 Spam Detection
 CopyRight Detector
-
-Python Program
