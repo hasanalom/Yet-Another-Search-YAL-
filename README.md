@@ -35,3 +35,4 @@ Page Rank
 Spam Detection
 CopyRight Detector
 Banker's Algorithm
+Greedy Algorithm
