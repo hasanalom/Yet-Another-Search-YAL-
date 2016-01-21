@@ -36,3 +36,4 @@ Spam Detection
 CopyRight Detector
 Banker's Algorithm
 Greedy Algorithm
+Binary Search
